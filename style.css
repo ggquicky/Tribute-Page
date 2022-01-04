@@ -1,0 +1,48 @@
+* {
+    margin:auto;
+    
+  }
+  main {
+    text-align:center;
+    background-color: #009AFA;
+  
+  }
+  #image{
+    display:block;
+    max-width:800px;
+    height: auto;
+  }
+ 
+  
+  #tribute-info{
+    background-color: #6A5768;
+    color:white ;
+    line-height: 2;
+    padding:20px;
+    font-size:20px; 
+  } 
+  
+   html {
+   display: flex;
+   align-items: center;
+   
+  }
+  
+  #title{
+    color: white;
+    font-size:40px
+  }
+  #description{
+    color:darkgray;
+  }
+  #img-caption{
+    color:white;
+    font-size:20px;
+  }
+  header {
+    padding:20px;
+  }
+  h3 {
+    color:white;
+    font-size:25px
+  }
